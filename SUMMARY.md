@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [首页](README.md)
 * [客户回收](customer-recycle.md)
 * [采购流程](purchase-flow.md)
 * [样品检测申请单](benchmark.md)
