@@ -1,6 +1,7 @@
 # Summary
 
 * [首页](README.md)
+* [询价](inquiry.md)
 * [客户流失](customer-outflow.md)
 * [客户回收](customer-recycle.md)
 * [采购流程](purchase-flow.md)
