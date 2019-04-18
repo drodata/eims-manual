@@ -1,6 +1,7 @@
 # Summary
 
 * [首页](README.md)
+* [管理付款发票](cost-receipt.md)
 * [客户应收款预付款对账](customer-balance-statement.md)
 * [客户预付款账户](customer-advance-account.md)
 * [询价](inquiry.md)
