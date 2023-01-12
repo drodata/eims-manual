@@ -13,4 +13,4 @@
 * [成品微粉领料](picking.md)
 * [二维码标签](qrcode-label.md)
 * [单笔结算客户先发货后付款流程](order-post-pay.md)
-
+* [客户回款](income.md)
