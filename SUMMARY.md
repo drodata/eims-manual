@@ -1,6 +1,12 @@
 # Summary
 
 * [首页](README.md)
+* [订单](order/README.md)
+    * [异常上报](order/trouble.md)
+    * [退货](order/reject.md)
+* [供应商](seller/README.md)
+    * [供应商](seller/seller.md)
+    * [对账单](seller/payable-statement.md)
 * [管理付款发票](cost-receipt.md)
 * [客户应收款预付款对账](customer-balance-statement.md)
 * [客户预付款账户](customer-advance-account.md)
@@ -14,8 +20,3 @@
 * [二维码标签](qrcode-label.md)
 * [单笔结算客户先发货后付款流程](order-post-pay.md)
 * [客户回款](income.md)
-* [订单](order/README.md)
-    * [异常上报](order/trouble.md)
-* [供应商](seller/README.md)
-    * [供应商](seller/seller.md)
-    * [对账单](seller/payable-statement.md)
