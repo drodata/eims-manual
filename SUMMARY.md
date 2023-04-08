@@ -2,9 +2,12 @@
 
 * [首页](README.md)
 * [订单](order/README.md)
+    * [备货](order/preparation.md)
     * [异常上报](order/trouble.md)
     * [退货](order/reject.md)
     * [镀覆](order/coating.md)
+* [客户](customer/README.md)
+    * [账单延期](customer/delay.md)
 * [采购](purchasing/README.md)
     * [采购需求](purchasing/demand.md)
     * [需求明细](purchasing/demand-item.md)
