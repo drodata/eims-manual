@@ -1,12 +1,13 @@
 # Summary
 
 * [首页](README.md)
-* [更新日至](changelog.md)
+* [更新日志](changelog.md)
 * [订单](order/README.md)
     * [备货](order/preparation.md)
     * [异常上报](order/trouble.md)
     * [退货](order/reject.md)
     * [镀覆](order/coating.md)
+    * [终止交付](order/end.md)
 * [客户](customer/README.md)
     * [账单延期](customer/delay.md)
     * [备货](customer/hoard.md)
