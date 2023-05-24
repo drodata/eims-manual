@@ -4,4 +4,4 @@
 
 匹配备货的目的在于：业务员给仓库下发一个明确的指令，协助仓管员选用合适的物资取料。
 
-[customer-hoard]: customer/hoard.md
+[customer-hoard]: /customer/hoard.md
