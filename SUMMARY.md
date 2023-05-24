@@ -8,6 +8,7 @@
     * [退货](order/reject.md)
     * [镀覆](order/coating.md)
     * [终止交付](order/end.md)
+    * [匹配备货](order/match-hoard.md)
 * [客户](customer/README.md)
     * [账单延期](customer/delay.md)
     * [备货](customer/hoard.md)
