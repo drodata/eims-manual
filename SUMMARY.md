@@ -14,7 +14,7 @@
     * [备货](customer/hoard.md)
 * [采购](purchasing/README.md)
     * [采购需求](purchasing/demand.md)
-    * [需求明细](purchasing/demand-item.md)
+    * [采购清单](purchasing/demand-item.md)
 * [供应商](seller/README.md)
     * [供应商](seller/seller.md)
     * [对账单](seller/payable-statement.md)
