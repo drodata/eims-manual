@@ -1,5 +1,6 @@
 # 更新日至
 
+- 2023-06-06: 生产 `新增` 砂轮生产增加[过程追溯功能][gwp-trace];
 - 2023-05-29: 采购 `新增` 采购清单[标记已完成][demand-item-mark-completed]操作;
 - 2023-05-27: 采购 `新增` [采购清单][demand-item]延期操作;
 - 2023-05-22: 新增 分批交付的订单支持[终止交付][order-end]操作;
@@ -11,3 +12,4 @@
 [order-match-hoard]: order/match-hoard.md
 [demand-item]: purchasing/demand-item.md
 [demand-item-mark-completed]: purchasing/demand-item.md#biao-ji-yi-wan-cheng
+[gwp-trace]: grinding-wheel-production/trace.md
