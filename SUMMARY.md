@@ -3,6 +3,7 @@
 * [首页](README.md)
 * [更新日志](changelog.md)
 * [订单](order/README.md)
+    * [订单](order/order.md)
     * [取料](order/selection.md)
     * [备货](order/preparation.md)
     * [异常上报](order/trouble.md)

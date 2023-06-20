@@ -2,6 +2,7 @@
 
 时间        | 类别  | 动作  | 说明
 ------------|-------|-------|-------
+2023-06-20  | 订单  | 新增  | [作废操作][order-discard]
 2023-06-09  | 订单  | 新增  | [取料建议评审][order-selection-pick-suggestion]
 2023-06-06  | 生产  | 新增  | 砂轮生产增加[过程追溯功能][gwp-trace]
 2023-05-29  | 采购  | 新增  | 采购清单[标记已完成][demand-item-mark-completed]
@@ -11,6 +12,7 @@
 2023-05-09  | 销售  | 新增  | [客户备货][customer-hoard]
 
 [customer-hoard]: customer/hoard.md
+[order-discard]: order/order.md#zuo-fei
 [order-end]: order/end.md
 [order-match-hoard]: order/match-hoard.md
 [demand-item]: purchasing/demand-item.md
