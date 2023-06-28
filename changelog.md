@@ -1,7 +1,8 @@
 # 更新日至
 
-时间        | 类别  | 动作  | 说明
+时间        | 大类  | 动作  | 说明
 ------------|-------|-------|-------
+2023-06-28  | 物资  | 新增  | [消耗品领用][material-requisition]
 2023-06-20  | 订单  | 新增  | [作废操作][order-discard]
 2023-06-09  | 订单  | 新增  | [取料建议评审][order-selection-pick-suggestion]
 2023-06-06  | 生产  | 新增  | 砂轮生产增加[过程追溯功能][gwp-trace]
@@ -11,6 +12,7 @@
 2023-05-20  | 订单  | 新增  | 申请过备货的客户,新建订单后增加[匹配备货][order-match-hoard]操作
 2023-05-09  | 销售  | 新增  | [客户备货][customer-hoard]
 
+[material-requisition]: material/requisition.md
 [customer-hoard]: customer/hoard.md
 [order-discard]: order/order.md#zuo-fei
 [order-end]: order/end.md
