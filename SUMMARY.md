@@ -1,7 +1,6 @@
 # Summary
 
 * [首页](README.md)
-* [更新日志](changelog.md)
 * [订单](order/README.md)
     * [订单](order/order.md)
     * [取料](order/selection.md)
@@ -25,6 +24,7 @@
     * [消耗品领用](material/requisition.md)
 * [砂轮生产](grinding-wheel-production/README.md)
     * [过程追溯](grinding-wheel-production/trace.md)
+    * [压块](grinding-wheel-production/press.md)
 * [管理付款发票](cost-receipt.md)
 * [客户应收款预付款对账](customer-balance-statement.md)
 * [客户预付款账户](customer-advance-account.md)
