@@ -5,6 +5,7 @@
 
 时间        | 大类  | 动作  | 说明
 ------------|-------|-------|-------
+2023-07-07  | 物资  | 新增  | [领料申请单][material-bucket]
 2023-07-05  | 订单  | 新增  | [终止交付操作][deal-terminate] (制品)
 2023-07-01  | 生产  | 新增  | [砂轮压块异常上报][gwp-press-lapse]
 2023-06-28  | 物资  | 新增  | [消耗品领用][material-requisition]
@@ -18,6 +19,7 @@
 2023-05-09  | 销售  | 新增  | [客户备货][customer-hoard]
 
 [deal-terminate]: deal/deal.md#zhong-zhi-jiao-fu
+[material-bucket]: material/bucket.md
 [material-requisition]: material/requisition.md
 [customer-hoard]: customer/hoard.md
 [order-discard]: order/order.md#zuo-fei

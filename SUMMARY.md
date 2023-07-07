@@ -23,6 +23,7 @@
     * [对账单](seller/payable-statement.md)
     * [金额往来明细](seller/payable.md)
 * [物资](material/README.md)
+    * [领料申请](material/bucket.md)
     * [消耗品领用](material/requisition.md)
 * [砂轮生产](grinding-wheel-production/README.md)
     * [过程追溯](grinding-wheel-production/trace.md)
