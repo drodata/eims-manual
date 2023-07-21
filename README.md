@@ -5,6 +5,7 @@
 
 时间        | 大类  | 动作  | 说明
 ------------|-------|-------|-------
+2023-07-21  | 生产  | 新增  | [原辅料数量变动日志][gwp-trace-snap]
 2023-07-07  | 物资  | 新增  | [领料申请单][material-bucket]
 2023-07-05  | 订单  | 新增  | [终止交付操作][deal-terminate] (制品)
 2023-07-01  | 生产  | 新增  | [砂轮压块异常上报][gwp-press-lapse]
@@ -28,5 +29,6 @@
 [demand-item]: purchasing/demand-item.md
 [demand-item-mark-completed]: purchasing/demand-item.md#biao-ji-yi-wan-cheng
 [gwp-trace]: grinding-wheel-production/trace.md
+[gwp-trace-snap]: grinding-wheel-production/trace.md#shu-liang-bian-dong-ri-zhi
 [gwp-press-lapse]: grinding-wheel-production/press.md#yi-chang-shang-bao
 [order-selection-pick-suggestion]: order/selection.md#qu-liao-jian-yi
