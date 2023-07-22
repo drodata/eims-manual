@@ -26,6 +26,7 @@
     * [领料申请](material/bucket.md)
     * [消耗品领用](material/requisition.md)
 * [砂轮生产](grinding-wheel-production/README.md)
+    * [混料](grinding-wheel-production/mix.md)
     * [过程追溯](grinding-wheel-production/trace.md)
     * [压块](grinding-wheel-production/press.md)
 * [管理付款发票](cost-receipt.md)
