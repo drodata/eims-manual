@@ -5,6 +5,7 @@
 
 时间        | 大类  | 动作  | 说明
 ------------|-------|-------|-------
+2023-08-02  | 物资  | 新增  | [台帐一致性审核][material-requisition-review]
 2023-07-22  | 生产  | 新增  | [混料阶段数量异常上报][gwp-mix-lapse]
 2023-07-21  | 生产  | 新增  | [原辅料数量变动日志][gwp-trace-snap]
 2023-07-07  | 物资  | 新增  | [领料申请单][material-bucket]
@@ -23,6 +24,7 @@
 [deal-terminate]: deal/deal.md#zhong-zhi-jiao-fu
 [material-bucket]: material/bucket.md
 [material-requisition]: material/requisition.md
+[material-requisition-review]: material/requisition.md#tai-zhang-yi-zhi-xing-shen-he
 [customer-hoard]: customer/hoard.md
 [order-discard]: order/order.md#zuo-fei
 [order-end]: order/end.md
