@@ -5,6 +5,7 @@
 
 时间        | 大类  | 动作  | 说明
 ------------|-------|-------|-------
+2023-08-05  | 采购  | 新增  | [留样][purchasing-purchase-specimen]
 2023-08-02  | 物资  | 新增  | [台帐一致性审核][material-requisition-review]
 2023-07-22  | 生产  | 新增  | [混料阶段数量异常上报][gwp-mix-lapse]
 2023-07-21  | 生产  | 新增  | [原辅料数量变动日志][gwp-trace-snap]
@@ -31,6 +32,7 @@
 [order-match-hoard]: order/match-hoard.md
 [demand-item]: purchasing/demand-item.md
 [demand-item-mark-completed]: purchasing/demand-item.md#biao-ji-yi-wan-cheng
+[purchasing-purchase-specimen]: purchasing/purchase.md#liu-yang
 [gwp-mix-lapse]: grinding-wheel-production/mix.md#yi-chang-shang-bao
 [gwp-trace]: grinding-wheel-production/trace.md
 [gwp-trace-snap]: grinding-wheel-production/trace.md#shu-liang-bian-dong-ri-zhi
