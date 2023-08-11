@@ -5,6 +5,7 @@
 
 时间        | 大类  | 动作  | 说明
 ------------|-------|-------|-------
+2023-08-11  | 采购  | 调整  | [采购员可以快速完成普通商品的检测][purchasing-purchase-inspection]
 2023-08-05  | 采购  | 新增  | [留样][purchasing-purchase-specimen]
 2023-08-02  | 物资  | 新增  | [台帐一致性审核][material-requisition-review]
 2023-07-22  | 生产  | 新增  | [混料阶段数量异常上报][gwp-mix-lapse]
@@ -32,6 +33,7 @@
 [order-match-hoard]: order/match-hoard.md
 [demand-item]: purchasing/demand-item.md
 [demand-item-mark-completed]: purchasing/demand-item.md#biao-ji-yi-wan-cheng
+[purchasing-purchase-inspection]: purchasing/purchase.md#jian-ce
 [purchasing-purchase-specimen]: purchasing/purchase.md#liu-yang
 [gwp-mix-lapse]: grinding-wheel-production/mix.md#yi-chang-shang-bao
 [gwp-trace]: grinding-wheel-production/trace.md
